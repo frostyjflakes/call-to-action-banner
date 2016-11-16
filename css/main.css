@@ -24,6 +24,7 @@ html {
   float: left;
   left: auto;
   position: absolute;
+  top: 10%;
 }
 
 .btn-big {
