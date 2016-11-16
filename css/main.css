@@ -17,11 +17,24 @@ html {
   width: 100%;
 }
 
+.img-circle {
+  display: block;
+  width: 100%;
+  float: left;
+}
+
 .btn {
   border-width:
+  border-radius:
+  float: right;
 }
 
 .btn-big {
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 3rem;
+  float: right;
+}
+
+p {
+  float: right;
 }
