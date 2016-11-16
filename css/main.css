@@ -37,6 +37,7 @@ html {
 p {
   float: right;
   position: absolute;
+  transform: translateX(-50%);
 }
 
 .btn {
